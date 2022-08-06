@@ -1,0 +1,9 @@
+server:
+  port: 6080
+
+spring:
+  application:
+    name: kafka-exe
+
+  kafka:
+    bootstrap-servers: localhost:9092
